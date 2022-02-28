@@ -1,0 +1,27 @@
+.shit {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 240, 13);
+
+  text-align: center;
+  transition: transform  5s;
+}
+
+.shit:hover {
+  transform: rotate(720000000000000000deg);
+}
+
+
+.fuck-container{
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.fuckah > p{
+  color: red;
+}
+
+.fuckah {
+
+}
