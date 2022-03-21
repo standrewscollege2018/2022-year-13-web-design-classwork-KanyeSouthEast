@@ -16,5 +16,3 @@
     <button type="submit" name="button" class="btn btn-primary mb-3">Submit</button>
 
     </form>
-
-</div>

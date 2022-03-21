@@ -31,6 +31,8 @@ $tutor_aa = mysqli_fetch_assoc($tutor_qry);
               ?>
            </ul>
          </li>
+         <li> <a class="nav-link active" href="index.php?page=login">Login</a>
+         </li>
        </ul>
         <!-- search bar, links to searchresults page that then links back to index -->
         <!-- searchs results here sets page get array so it links to the php page -->
