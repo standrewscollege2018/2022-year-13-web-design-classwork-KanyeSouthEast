@@ -15,6 +15,7 @@ session_start();
    </head>
    <body>
      <?php
+
      // includes the navbar
        include("navbar.php");
 
@@ -23,7 +24,7 @@ session_start();
        $page = $_GET['page'];
        include("$page.php");
      } else {
-       include("home.php");
+       ?><?php echo "bad" ?><?php
      }
       ?>
 
